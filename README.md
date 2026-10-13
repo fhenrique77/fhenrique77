@@ -408,4 +408,4 @@ Projeto de desenvolvimento backend utilizando Node.js, Express e MongoDB, com op
 <p align="center">
   💡 <strong>Sempre aprendendo, desenvolvendo e buscando novos desafios!</strong>
 </p>
-<details>
+
