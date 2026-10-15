@@ -279,7 +279,8 @@ A backend development project using Node.js, Express, and MongoDB, featuring dat
 </p>
 
 ---
-
+<details>
+  <summary>🌐 Ler em português</summary>
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
