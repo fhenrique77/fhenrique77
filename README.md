@@ -1,120 +1,285 @@
+
 <h1 align="left">👋 Hi, I'm Felipe Henrique Oliveira Sousa!</h1>
 
 <p align="left">
-  🚀 Software Engineering student at the University of Brasília (UnB) and Cyber Defense student at Estácio.<br>
-  💻 Focused on Back-End Development, Software Engineering, and Cybersecurity — building scalable, secure, and well-structured applications.
+  🚀 Software Engineering student at the University of Brasília (UnB) and Cyber Defense student at Estácio.<br><br>
+  💻 Focused on <strong>Back-End Development, Software Engineering, and Cybersecurity</strong>, with an interest in building scalable, secure, and well-structured applications.
 </p>
+
+---
 
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
   🎯 <strong>My goals:</strong><br>
-  • Grow as a Back-End Developer.<br>
-  • Build scalable, secure, and well-structured applications.<br>
-  • Strengthen my knowledge of Software Engineering and Cybersecurity.<br>
+  • Grow professionally as a Back-End Developer and Software Engineer.<br>
+  • Develop scalable, secure, and well-structured applications.<br>
+  • Deepen my knowledge of software architecture and cybersecurity.<br>
   • Contribute to open-source projects.<br>
-  • Explore automation, APIs, and emerging technologies.<br><br>
-
-  💼 I'm currently a <strong>Software Engineering Intern</strong>, working on software development with <strong>Java, Quarkus, React, Python, and FastAPI</strong>.<br><br>
-
-  🎲 <strong>Fun fact:</strong> I enjoy building projects that combine programming, automation, and problem-solving.
+  • Explore automation, APIs, artificial intelligence, and emerging technologies.
 </p>
+
+<p align="left">
+  💼 I currently work as a <strong>Software Engineering Intern</strong>, developing systems using <strong>Java, Quarkus, Python, FastAPI, Angular, and React</strong>.
+</p>
+
+<p align="left">
+  🔧 I have hands-on experience with REST API development, systems integration, databases, process automation, and web application development.
+</p>
+
+<p align="left">
+  🌎 I'm interested in collaborating with international teams, contributing to open-source projects, and expanding my software development experience.
+</p>
+
+<p align="left">
+  🎲 <strong>Fun fact:</strong> I enjoy developing projects that involve programming, automation, and solving real-world problems.
+</p>
+
+---
 
 <h2 align="left">🚀 Featured Projects</h2>
 
-- **[ZelaDF](https://github.com/fhenrique77/ZelaDF)** — A collaborative platform for reporting urban issues, built with React, TypeScript, Supabase, PostgreSQL, and mapping tools. [Live website](https://zela-df.vercel.app/).
-- **[Coffee Machine 2.0](https://github.com/fhenrique77/Coffee_Machine_2.0)** — A full-stack coffee machine simulator with a Java/Quarkus REST API and an Angular frontend.
-- **[Podcast Automation Bot](https://github.com/fhenrique77/Automa-o_de_Shorts)** — A Python automation pipeline that uses AI, FFmpeg, Playwright, and SQLite to create and manage short-form video content.
-- **[Flinkboot — Open-Source Contribution](https://github.com/Sekelenao/Flinkboot/pull/260)** — Contributed a merged Java validation fix and updated tests for an Apache Flink-related project.
+### 🗺️ ZelaDF — Collaborative Urban Issues Platform
+
+A platform for reporting and visualizing urban issues in Brazil's Federal District through an interactive map.
+
+**Key features:**
+- Displaying reported issues on an interactive map.
+- Reporting urban issues with location information and photos.
+- User authentication.
+- Collaborative confirmation of reported issues.
+- Data persistence and image storage.
+- Responsive interface for desktop and mobile devices.
+- Complementary Python/FastAPI API, developed and tested separately.
+
+**Technologies:** React, TypeScript, Supabase, PostgreSQL, Leaflet, FastAPI, and Vercel.
+
+🔗 [Repository](https://github.com/fhenrique77/ZelaDF)
+
+🌐 [Live application](https://zela-df.vercel.app/)
+
+---
+
+### ☕ Coffee Machine 2.0 — Full-Stack Application
+
+A web application that simulates the operation of a coffee machine, using a Java REST API built with Quarkus and a frontend developed with Angular.
+
+**Key features:**
+- Purchasing beverages with resource availability checks.
+- Ingredient and inventory management.
+- REST operations for querying and updating the machine's state.
+- Communication between frontend and backend.
+- Business logic tests.
+
+**Technologies:** Java, Quarkus, Angular, TypeScript, REST API, and Maven.
+
+🔗 [Repository](https://github.com/fhenrique77/Coffee_Machine_2.0)
+
+---
+
+### 🤖 Podcast Automation Bot — Python & AI Automation
+
+An automation system for processing, editing, and publishing short-form videos on digital platforms.
+
+**Key features:**
+- Downloading and processing audiovisual content.
+- Analyzing transcripts with artificial intelligence.
+- Selecting segments for creating short videos.
+- Processing and rendering videos with FFmpeg.
+- Browser automation with Playwright.
+- Scheduling and managing executions.
+- Persisting records and preventing duplicates.
+
+**Technologies:** Python, Google Gemini, Whisper, FFmpeg, Playwright, SQLite, and Shell Script.
+
+🔗 [Repository](https://github.com/fhenrique77/Automa-o_de_Shorts)
+
+---
+
+### 🌐 Flinkboot — Open-Source Contribution
+
+A contribution to an open-source Java project in the Apache Flink ecosystem.
+
+**Contribution:**
+- Fixed the property path used for configuration validation.
+- Adjusted the property name to match the format used in YAML.
+- Updated validation tests.
+- Ran and verified the local tests.
+- Had the Pull Request approved and merged into the original project.
+
+**Technologies:** Java, Maven, JUnit, and Git.
+
+🔗 [Pull Request #260 — Merged contribution](https://github.com/Sekelenao/Flinkboot/pull/260)
+
+---
+
+### 🔌 Ocean Backend — REST API
+
+A backend development project using Node.js, Express, and MongoDB, featuring data management operations and integration with an external API.
+
+**Technologies:** JavaScript, Node.js, Express, MongoDB, and REST API.
+
+🔗 [Repository](https://github.com/fhenrique77/ocean-backend)
+
+---
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
 
+### 💻 Programming Languages
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" height="40" alt="Quarkus logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
 </div>
 
-<h2 align="left">🌐 Connect With Me</h2>
+### ⚙️ Frameworks & Web Development
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" height="40" alt="Quarkus" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+</div>
+
+### 🗄️ Databases
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
+</div>
+
+### 🔧 DevOps, Tools & Infrastructure
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="Pytest" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="Playwright" />
+</div>
+
+---
+
+<h2 align="left">🌐 Contact & Social Media</h2>
+
+<div align="left">
+
   <a href="mailto:felipehenriqueos552@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-felipehenriqueos552%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
+
   <a href="https://www.linkedin.com/in/felipe-henrique-63728a27a/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Felipe%20Henrique-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
+
   <a href="https://github.com/fhenrique77">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-fhenrique77-181717?style=flat-square&logo=github&logoColor=white">
   </a>
+
 </div>
+
+---
 
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
+
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=fhenrique77&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub profile stats" />
+
   <img height="170" src="https://streak-stats.demolab.com/?user=fhenrique77&theme=dracula&hide_border=false" alt="GitHub contribution streak" />
+
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=fhenrique77&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most-used GitHub languages" />
+
 </div>
+
+---
 
 <h2 align="left">🏆 GitHub Trophies</h2>
 
 <div align="center">
+
   <img src="https://github-profile-trophy.vercel.app/?username=fhenrique77&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" />
+
 </div>
+
+---
 
 <h2 align="left">📈 Activity Graph</h2>
 
 <div align="center">
+
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fhenrique77&radius=16&theme=react&area=true" alt="GitHub contribution activity graph" />
+
 </div>
 
 ---
 
-<details>
-  <summary>🌐 Ler em português</summary>
-<h1 align="left">👋 Olá, eu sou Felipe Henrique Oliveira Sousa!</h1>
-
-<p align="left">
-  🚀 Estudante de <strong>Engenharia de Software</strong> na Universidade de Brasília (UnB) e de <strong>Defesa Cibernética</strong> na Estácio.<br><br>
-  💻 Focado em <strong>Desenvolvimento Back-End, Engenharia de Software e Cibersegurança</strong>, com interesse na construção de aplicações escaláveis, seguras e bem estruturadas.
+<p align="center">
+  💡 <strong>Always learning, building, and seeking new challenges!</strong>
 </p>
 
 ---
+
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
