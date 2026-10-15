@@ -328,28 +328,7 @@ Projeto de desenvolvimento backend utilizando Node.js, Express e MongoDB, com op
 
 ---
 
-<h2 align="left">🎓 Formação Acadêmica</h2>
 
-🎓 **Universidade de Brasília (UnB)**
-- Bacharelado em Engenharia de Software
-- 2023 – 2028 (previsão)
-
-🛡️ **Estácio**
-- Tecnólogo em Defesa Cibernética
-- 2024 – 2026 (previsão)
-
----
-
-<h2 align="left">📜 Cursos & Certificações</h2>
-
-- **DevOps Git** — Samsung Ocean (2026)
-- **Backend com Node.js e Express — Partes 1 e 2** — Samsung Ocean (2026)
-- **Power BI** — Ada (2026)
-- **Fundamentos de Deep Learning com Python** — Samsung Ocean (2026)
-- **Processamento de Linguagem Natural em Python** — Samsung Ocean (2026)
-- **Proteção de Dados Pessoais no Setor Público** — Enap (2023)
-
----
 
 <h2 align="left">🌐 Contatos & Redes Sociais</h2>
 
